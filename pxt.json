@@ -4,7 +4,8 @@
     "dependencies": {
         "device": "*",
         "arcade-minimap": "github:microsoft/arcade-minimap#v0.6.1",
-        "animation": "*"
+        "animation": "*",
+        "palette": "*"
     },
     "files": [
         "main.blocks",
@@ -13,7 +14,8 @@
         "tilemap.g.jres",
         "tilemap.g.ts",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        null
     ],
     "testFiles": [
         "test.ts"
